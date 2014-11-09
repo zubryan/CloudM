@@ -13,5 +13,4 @@ The idea came from Infrastrucutre as a Service. CloudM totally makes use of comp
 
 ## Team members
 
-Now there is Bryan Zhu and Andy Wan.
 More guys will come soon.
